@@ -1,7 +1,7 @@
 {
-  "name": "Mini-React",
+  "name": "enzyme-example",
   "version": "1.0.0",
-  "description": "A Very Minimal React Configuration",
+  "description": "Testing React with Example (Lecture Code)",
   "main": "react/index.js",
   "scripts": {
     "build-watch": "webpack -w",
